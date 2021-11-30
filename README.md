@@ -1,9 +1,9 @@
 ### Found me? I'm Luorily
 
-### a Student of HFUTxc, Mechanical engineering
+### a Student of HFUTxc, Mechanical Engineering
 
 - 🔭Luorily is Luorily ~
-- 🎓I do not like Study!!
+- 🎓I **do not** like Study!!
 - 🌱Github is Currently working hard for [HFUT-ME-CoursesData](https://github.com/Luorily/HFUT-ME-CoursesData)
 
 **What I did~**<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
