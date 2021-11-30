@@ -1,6 +1,6 @@
-<h2>Found me? I'm Luorily</h2>
+### Found me? I'm Luorily
 
-<h2>a Student of HFUTxc, Mechanical engineering</h2>
+### a Student of HFUTxc, Mechanical engineering
 
 - 🔭Luorily is Luorily ~
 - 🎓I do not like Study!!
@@ -8,6 +8,8 @@
 
 **摸鱼情况~**<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=luorily&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=luorily&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite" />
+
+At Last, I love ARTI forever.
 
 <div style="text-align"><img src="/_media/ATRI.png" /></div>
