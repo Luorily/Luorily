@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2>Found me? I'm Luorily</h2>
 
-<!--
-**Luorily/Luorily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>a Student of HFUTxc, Mechanical engineering</h2>
 
-Here are some ideas to get you started:
+- 🔭Luorily is Luorily ~
+- 🎓I do not like Study!!
+- 🌱Github is Currently working hard for [HFUT-ME-CoursesData](https://github.com/Luorily/HFUT-ME-CoursesData)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**摸鱼情况~**<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=luorily&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite&locale=cn" />
+
+<div style="text-align"><img src="/_media/ATRI.png" /></div>
