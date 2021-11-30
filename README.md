@@ -12,4 +12,4 @@
 
 At Last, I love ARTI forever.
 
-<div style="zoom: 50%;"><img src="/_media/ATRI.png" /></div>
+<!-- <div style="zoom: 50%;"><img src="/_media/ATRI.png" /></div> -->
